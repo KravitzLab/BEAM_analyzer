@@ -1,6 +1,6 @@
 # BEAM Interactive Analyzer
 
-A free, browser-based tool for analyzing activity and circadian rhythms from BEAM (Behavior and Energy Activity Monitor) recordings, developed by the [Wash U NeuroTech Hub](https://neurotechhub.wustl.edu/).
+A free, browser-based tool for analyzing activity and circadian rhythms from BEAM devices. BEAM was developed by the [Wash U NeuroTech Hub](https://neurotechhub.wustl.edu/).
 
 ## Quick start
 
